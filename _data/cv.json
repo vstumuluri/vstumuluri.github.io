@@ -2,7 +2,7 @@
   "basics": {
     "name": "Vasishta Tumuluri",
     "email": "vtumulur@unc.edu",
-    "website": "https://vtumulur.github.io",
+    "website": "https://vstumuluri.github.io",
     "summary": "Statistics and Mathematics Undergraduate at UNC",
     "location": {
       "address": "",
@@ -24,8 +24,8 @@
       },
       {
         "network": "GitHub",
-        "username": "vtumulur",
-        "url": "https://github.com/vtumulur"
+        "username": "vstumuluri",
+        "url": "https://github.com/vstumuluri"
       }
     ]
   },
